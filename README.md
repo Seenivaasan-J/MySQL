@@ -57,4 +57,4 @@ Includes:
 ✔ Rank products by price within categories
 ✔ Show next/previous order amount for each customer
 
-
+![Image Alt](https://github.com/Seenivaasan-J/MySQL-Project-Supermarket-Sales-Inventory-Management-Database-/blob/d9e5676ac243de0fd6b78d59c68f5fdc0cefb487/ER%20Diagram.png)
