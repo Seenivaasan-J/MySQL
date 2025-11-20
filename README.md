@@ -1,4 +1,4 @@
-#  Supermarket Database Management System (MySQL Project)
+#  Supermarket-Sales-Inventory-Management (MySQL Project)
 This project is a complete MySQL database system designed for managing a Supermarket’s customers, products, categories, orders, order details, and analytics.
 
 ##  Overview
